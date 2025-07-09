@@ -1,4 +1,24 @@
 div{
     background-color: aqua;
     padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
 }
+
+ .mama{
+    border: 4px solid blueviolet;
+    box-shadow: 10px 10px 10px  blueviolet;
+    
+ }
+
+ .mama2{
+    text-align: center;
+ }
+
+ .mama-pic{
+
+    width: 50%;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  box-shadow:10px 10px 10px rgb(215, 139, 26) ;
+ }
